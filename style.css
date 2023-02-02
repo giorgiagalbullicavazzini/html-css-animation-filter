@@ -57,6 +57,12 @@
     filter: grayscale(1);
 }
 
+.ex-7-img:hover {
+    transition: filter 5s, border-radius 5s;
+    filter: sepia(1);
+    border-radius: 50%;
+}
+
 .ex-9-img {
     margin: 50px 100px;
     width: 400px;
