@@ -61,6 +61,13 @@
 .ex-7-img:hover {
     filter: sepia(1) blur(5px);
 }
+.ex-8-img {
+    transition: filter 5s, border-radius 5s;
+}
+.ex-8-img:hover {
+    filter: contrast(500%) hue-rotate(90deg);
+    border-radius: 25%;
+}
 .ex-9-img {
     margin: 50px 100px;
     width: 400px;
