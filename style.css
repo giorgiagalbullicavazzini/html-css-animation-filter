@@ -2,7 +2,7 @@
     width: 100px;
     height: 100px;
     border: 1px solid red;
-    transition: background-color 5s;
+    transition: background-color 2s;
 }
 
 .ex-1-square:hover {
@@ -13,7 +13,7 @@
     width: 100px;
     height: 100px;
     background: red;
-    transition: width 5s;
+    transition: width 2s;
 }
 
 .ex-2-square:active {
@@ -24,7 +24,7 @@
     width: 100px;
     height: 100px;
     background: red;
-    transition: border-radius 5s;
+    transition: border-radius 2s;
 }
 
 .ex-3-square:hover {
@@ -35,7 +35,7 @@
     width: 100px;
     height: 100px;
     background: red;
-    transition: opacity 5s;
+    transition: opacity 2s;
 }
 
 .ex-4-square:hover {
@@ -47,7 +47,7 @@
     width: 60px;
     height: 60px;
     background: red;
-    transition: width 5s, height 5s;
+    transition: width 2s, height 2s;
 }
 
 .ex-5-square:hover {
@@ -71,7 +71,7 @@
 }
 
 .ex-7-img {
-    transition: filter 5s;
+    transition: filter 2s;
 }
 
 .ex-7-img:hover {
@@ -79,7 +79,7 @@
 }
 
 .ex-8-img {
-    transition: filter 5s, border-radius 5s;
+    transition: filter 2s, border-radius 2s;
 }
 
 .ex-8-img:hover {
@@ -90,7 +90,7 @@
 .ex-9-img {
     margin: 50px 100px;
     width: 400px;
-    transition: filter 5s, border-radius 5s, transform 5s;
+    transition: filter 2s, border-radius 2s, transform 2s;
 }
 
 .ex-9-img:hover {
